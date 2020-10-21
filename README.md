@@ -107,7 +107,8 @@ Par exemple pour déclarer le contrat `Adder` dans _Calculator.sol_:
 Déployer un token CalcToken qui possédera le même code que:
 https://github.com/AbsoluteVirtueXI/blockchain-courses/blob/master/exercices/ethereum/correction-exercices-smart-contracts/FirstErc20.sol  
 Le nom du token sera `CalcToken`, le symbole `CALK`, `decimals` de 18 et le cap de 1 millions.  
-Fournir également l'adresse de ce contrat.
+Fournir également l'adresse de ce contrat.  
+`0x1F1aEcA9973f7ac293676c9032bC8dD0813535FC`
 
 ## 13 _CALKIco.sol_
 
